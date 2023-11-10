@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hCA64gChmHqLbnESDHiD7/ky0CQiROCXHSdMdMwiBsI=",
+  "Source": "WebApiSignosVitales",
+  "BasePath": "_content/WebApiSignosVitales",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
